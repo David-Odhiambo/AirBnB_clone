@@ -1,0 +1,18 @@
+footer{
+    color: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #cccccc;
+    text-align: center;
+    margin-top: 65%;
+
+}
+section{
+    height: 100%;
+}
+p{
+    color: black;
+    padding-top: 10px;
+    text-align: center;
+  
+}
